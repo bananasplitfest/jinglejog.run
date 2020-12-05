@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /                   https://www.active.com/running/distance-running-races/holly-jolly-jingle-jog-2020
-/register           https://resultscui.active.com/events/HollyJollyJingleJog
+/register           https://endurancecui.active.com/event-reg/select-race?e=72229051
 /submit             https://resultscui.active.com/events/HollyJollyJingleJog
 /times              https://resultscui.active.com/events/HollyJollyJingleJog
 /time               https://resultscui.active.com/events/HollyJollyJingleJog
